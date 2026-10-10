@@ -1,0 +1,5 @@
+BAM-HRNet Evaluation Results
+==================================================
+Validation samples : 6352
+Validation loss    : 0.001599
+Model              : /kaggle/working/Fall-Detection-System/models/pose/best.pth

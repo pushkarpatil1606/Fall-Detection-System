@@ -1,0 +1,486 @@
+category,filename,status,num_detections,max_confidence
+fall,1.jpg,detected,2,0.6039698719978333
+fall,10.jpg,missed,0,0.0
+fall,100.jpg,detected,1,0.3551294505596161
+fall,13.jpg,detected,2,0.6582276821136475
+fall,14.jpg,missed,0,0.0
+fall,15.jpg,detected,1,0.6811668276786804
+fall,16.jpg,detected,1,0.8513607382774353
+fall,160323-seniorfallen-stock.jpg,detected,1,0.6983759999275208
+fall,17.jpg,detected,1,0.37322738766670227
+fall,20.jpg,detected,1,0.6659231781959534
+fall,2018-07-04T12_04_21.496555.png,detected,1,0.8581252098083496
+fall,2018-07-04T12_04_21.671522.png,detected,3,0.7946421504020691
+fall,2018-07-04T12_04_21.769786.png,detected,4,0.7243781685829163
+fall,2018-07-04T12_04_21.805886.png,missed,0,0.0
+fall,2018-07-04T12_04_21.852010.png,detected,1,0.46073588728904724
+fall,2018-07-04T12_04_21.899139.png,detected,3,0.6651327610015869
+fall,2018-07-04T12_04_21.992390.png,detected,3,0.7261798977851868
+fall,2018-07-04T12_05_21.274865.png,detected,3,0.8593375086784363
+fall,2018-07-04T12_05_21.381650.png,detected,1,0.5632786154747009
+fall,2018-07-04T12_05_21.526538.png,detected,3,0.8623141646385193
+fall,2018-07-04T12_05_21.574164.png,detected,1,0.587449312210083
+fall,2018-07-04T12_06_22.885278.png,detected,1,0.6486784219741821
+fall,2018-07-04T12_06_22.947444.png,detected,4,0.8824793696403503
+fall,2018-07-04T12_06_23.099851.png,missed,0,0.0
+fall,2018-07-04T12_06_23.202125.png,detected,2,0.8851596117019653
+fall,2018-07-04T12_06_23.822832.png,detected,4,0.8914705514907837
+fall,2018-07-04T12_06_24.055999.png,detected,4,0.9039540886878967
+fall,2018-07-04T12_07_23.297661.png,detected,1,0.9208771586418152
+fall,2018-07-04T12_07_23.435529.png,detected,1,0.8302215337753296
+fall,2018-07-04T12_07_23.486666.png,detected,3,0.8646104335784912
+fall,2018-07-04T12_07_23.537803.png,detected,3,0.8846237063407898
+fall,2018-07-04T12_07_23.537803_1.png,detected,2,0.5405731201171875
+fall,2018-07-04T12_07_23.604982.png,detected,1,0.466962605714798
+fall,2018-07-04T12_07_24.619198.png,detected,3,0.8763135671615601
+fall,2018-07-04T12_08_22.746980.png,detected,2,0.5909873843193054
+fall,2018-07-04T12_08_23.015197.png,detected,1,0.3379955291748047
+fall,21.jpg,detected,1,0.8783357739448547
+fall,22.jpg,detected,1,0.5240980982780457
+fall,23.jpg,detected,3,0.7513156533241272
+fall,24.jpg,detected,1,0.310330867767334
+fall,27.jpg,detected,1,0.7540991902351379
+fall,28.jpg,detected,1,0.7844114899635315
+fall,29.jpg,detected,1,0.7770093083381653
+fall,3.jpg,missed,0,0.0
+fall,30.jpg,detected,1,0.5506926774978638
+fall,31.jpg,detected,1,0.8340745568275452
+fall,32.jpg,detected,1,0.47393420338630676
+fall,33.jpg,detected,1,0.6661337614059448
+fall,34.jpg,detected,2,0.5467221140861511
+fall,35.jpg,detected,2,0.47692662477493286
+fall,36.jpg,missed,0,0.0
+fall,37.jpg,detected,2,0.5477097630500793
+fall,39.jpg,missed,0,0.0
+fall,4.jpg,detected,1,0.4245704114437103
+fall,41.jpg,detected,1,0.3039188086986542
+fall,44.jpg,detected,1,0.8528559803962708
+fall,45.jpg,detected,1,0.41799482703208923
+fall,46.jpg,detected,2,0.6548290848731995
+fall,47.jpg,detected,3,0.7903690338134766
+fall,48.jpg,detected,1,0.8881481289863586
+fall,49.jpg,missed,0,0.0
+fall,5.jpg,missed,0,0.0
+fall,50.jpg,detected,1,0.6648668646812439
+fall,51.jpg,detected,1,0.8596670627593994
+fall,52.jpg,missed,0,0.0
+fall,53.jpg,detected,1,0.8876588940620422
+fall,55.jpg,missed,0,0.0
+fall,58.jpg,detected,1,0.727264404296875
+fall,59.jpg,detected,1,0.6601395010948181
+fall,5c89433b113a5018ae39fcd1.jpeg,detected,1,0.8223247528076172
+fall,6.jpg,detected,1,0.3647850751876831
+fall,60.jpg,detected,1,0.3934338390827179
+fall,61.jpg,detected,1,0.7666330337524414
+fall,62.jpg,detected,1,0.5555606484413147
+fall,63.jpg,detected,1,0.4429600238800049
+fall,64.jpg,detected,1,0.4889925718307495
+fall,65.jpg,detected,1,0.5833210945129395
+fall,66.jpg,detected,1,0.9314169883728027
+fall,67.jpg,detected,1,0.44946518540382385
+fall,68.jpg,detected,1,0.4066355228424072
+fall,69.jpg,detected,1,0.8664290904998779
+fall,7..jpg,detected,1,0.5870685577392578
+fall,70.jpg,detected,1,0.9019467234611511
+fall,71.jpg,detected,1,0.6402307748794556
+fall,72.jpg,detected,1,0.5959246754646301
+fall,73.jpg,detected,2,0.6829404830932617
+fall,74.jpg,detected,1,0.46985000371932983
+fall,76.jpg,detected,1,0.5246232151985168
+fall,77.jpg,detected,1,0.728534460067749
+fall,78.jpg,detected,1,0.375879168510437
+fall,79.jpg,missed,0,0.0
+fall,8.jpg,detected,1,0.4720572829246521
+fall,80.jpg,missed,0,0.0
+fall,81.jpg,detected,1,0.7625918984413147
+fall,82.jpg,detected,3,0.5873321890830994
+fall,83.jpg,missed,0,0.0
+fall,84.jpg,detected,1,0.8520535826683044
+fall,85..jpg,detected,2,0.6582276821136475
+fall,86.jpg,detected,1,0.7562691569328308
+fall,87.jpg,missed,0,0.0
+fall,89.jpg,detected,1,0.7168055772781372
+fall,9.jpg,missed,0,0.0
+fall,90.jpg,detected,1,0.6382302045822144
+fall,91.jpg,detected,1,0.7456080317497253
+fall,92.jpg,detected,1,0.8087732195854187
+fall,93.jpg,detected,2,0.40205827355384827
+fall,94.jpg,detected,4,0.4492430090904236
+fall,95.jpg,missed,0,0.0
+fall,96.jpg,detected,1,0.6325368881225586
+fall,97.jpg,detected,1,0.7608841061592102
+fall,aged-pensioner-falling-on-the-ground-in-the-street-J59Y19.jpg,detected,1,0.8338797688484192
+fall,blood-blockage-ill-senior-man-touching-chest-falling-floor-sick-heart-attack-120330716.jpg,detected,1,0.9026849865913391
+fall,depositphotos_253687952-stock-photo-aging-grandfather-falling-down-because.jpg,detected,1,0.7043817043304443
+fall,depositphotos_98078022-stock-photo-man-falling-down.jpg,detected,2,0.5061609148979187
+fall,download (1).jpeg,detected,1,0.3888981342315674
+fall,download.jpeg,missed,0,0.0
+fall,elder-man-falling-on-floor-260nw-1416345257.jpg,detected,1,0.4230750501155853
+fall,elderly-man-slip-fall-home-accident-old-mature-senior-woman-has-had-stairway-his-medical-aid-walker-stairs-64333178.jpg,detected,2,0.6411069631576538
+fall,elderly-senior-man-slip-fall-fallen-old-person-elderly-senior-man-slip-fall-212489583.jpg,detected,1,0.8480682969093323
+fall,fall-01-cam0-rgb-099.png,detected,1,0.8962231874465942
+fall,fall-01-cam0-rgb-107.png,detected,1,0.816246509552002
+fall,fall-01-cam0-rgb-116.png,detected,1,0.34423771500587463
+fall,fall-01-cam0-rgb-130.png,detected,1,0.45166200399398804
+fall,fall-01-cam1-rgb-109.png,detected,1,0.7190433144569397
+fall,fall-01-cam1-rgb-125.png,detected,1,0.7713695168495178
+fall,fall-02-cam0-rgb-073.png,detected,1,0.40464287996292114
+fall,fall-02-cam0-rgb-088.png,missed,0,0.0
+fall,fall-02-cam1-rgb-073.png,detected,1,0.33948495984077454
+fall,fall-02-cam1-rgb-083.png,detected,2,0.6659421324729919
+fall,fall-03-cam0-rgb-172.png,detected,1,0.7540077567100525
+fall,fall-03-cam0-rgb-213.png,missed,0,0.0
+fall,fall-03-cam1-rgb-178.png,detected,1,0.8860150575637817
+fall,fall-03-cam1-rgb-185.png,detected,1,0.8844267129898071
+fall,fall-04-cam0-rgb-042.png,detected,1,0.5027205944061279
+fall,fall-04-cam0-rgb-053.png,detected,1,0.4468608796596527
+fall,fall-04-cam1-rgb-038.png,detected,1,0.4721115827560425
+fall,fall-04-cam1-rgb-047.png,missed,0,0.0
+fall,fall-04-cam1-rgb-056.png,detected,1,0.5823373794555664
+fall,fall-05-cam0-rgb-108.png,missed,0,0.0
+fall,fall-05-cam0-rgb-120.png,detected,1,0.4248914122581482
+fall,fall-05-cam0-rgb-143.png,missed,0,0.0
+fall,fall-05-cam1-rgb-104.png,detected,1,0.6744630336761475
+fall,fall-05-cam1-rgb-113.png,missed,0,0.0
+fall,fall-05-cam1-rgb-125.png,detected,1,0.49275916814804077
+fall,fall-06-cam0-rgb-038.png,detected,1,0.8890000581741333
+fall,fall-06-cam0-rgb-043.png,detected,1,0.4403909742832184
+fall,fall-06-cam0-rgb-053.png,detected,1,0.47079139947891235
+fall,fall-06-cam0-rgb-072.png,detected,1,0.6773810982704163
+fall,fall-06-cam1-rgb-042.png,detected,1,0.3106374144554138
+fall,fall-06-cam1-rgb-056.png,detected,1,0.8036308288574219
+fall,fall-06-cam1-rgb-080.png,detected,1,0.81504225730896
+fall,fall-07-cam0-rgb-111.png,detected,1,0.402689129114151
+fall,fall-07-cam0-rgb-124.png,detected,1,0.534273087978363
+fall,fall-07-cam0-rgb-132.png,detected,1,0.43416091799736023
+fall,fall-07-cam0-rgb-156.png,missed,0,0.0
+fall,fall-07-cam1-rgb-110.png,detected,1,0.6911992430686951
+fall,fall-07-cam1-rgb-115.png,detected,1,0.44294700026512146
+fall,fall-07-cam1-rgb-132.png,detected,1,0.7476751804351807
+fall,fall-08-cam0-rgb-059.png,detected,2,0.8167824149131775
+fall,fall-08-cam0-rgb-084.png,detected,1,0.32954856753349304
+fall,fall-08-cam1-rgb-063.png,missed,0,0.0
+fall,fall-09-cam0-rgb-140.png,detected,1,0.8780581951141357
+fall,fall-09-cam0-rgb-156.png,missed,0,0.0
+fall,fall-09-cam0-rgb-164.png,detected,3,0.40239498019218445
+fall,fall-09-cam0-rgb-184.png,missed,0,0.0
+fall,fall-09-cam1-rgb-148.png,missed,0,0.0
+fall,fall-09-cam1-rgb-158.png,detected,1,0.5721126198768616
+fall,fall-10-cam1-rgb-065.png,detected,2,0.4874730110168457
+fall,fall-11-cam1-rgb-079.png,detected,1,0.6788550615310669
+fall,fall-11-cam1-rgb-090.png,detected,1,0.8453543186187744
+fall,fall-11-cam1-rgb-106.png,detected,1,0.908053457736969
+fall,fall-12-cam0-rgb-059.png,detected,1,0.3020557165145874
+fall,fall-12-cam0-rgb-067.png,detected,1,0.3107813000679016
+fall,fall-12-cam1-rgb-055.png,detected,1,0.5830703973770142
+fall,fall-13-cam0-rgb-065.png,detected,1,0.45771247148513794
+fall,fall-13-cam0-rgb-076.png,detected,1,0.3494700491428375
+fall,fall-13-cam1-rgb-068.png,detected,1,0.32210904359817505
+fall,fall-13-cam1-rgb-079.png,detected,1,0.30048370361328125
+fall,fall-14-cam0-rgb-037.png,detected,1,0.6601660847663879
+fall,fall-14-cam0-rgb-061.png,detected,1,0.6440643072128296
+fall,fall-14-cam1-rgb-049.png,missed,0,0.0
+fall,fall-17-cam1-rgb-080.png,missed,0,0.0
+fall,fall-18-cam1-rgb-043.png,missed,0,0.0
+fall,fall-20-cam0-rgb-050.png,missed,0,0.0
+fall,fall-20-cam0-rgb-059.png,missed,0,0.0
+fall,fall-20-cam1-rgb-040.png,detected,1,0.8596445918083191
+fall,fall-20-cam1-rgb-048.png,detected,1,0.8906335830688477
+fall,fall-21-cam1-rgb-043.png,detected,1,0.5543538928031921
+fall,fall-25-cam0-rgb-062.png,detected,1,0.3754635751247406
+fall,fall-25-cam0-rgb-067.png,missed,0,0.0
+fall,fall-25-cam0-rgb-071.png,missed,0,0.0
+fall,fall-25-cam1-rgb-073.png,detected,1,0.5474421977996826
+fall,fall-26-cam0-rgb-038.png,detected,1,0.34108367562294006
+fall,fall-26-cam1-rgb-040.png,detected,1,0.36129698157310486
+fall,fallen-man-ladder-unconcious-elderly-lying-ground-having-fell-31442045.jpg,detected,1,0.7670265436172485
+fall,falling-screaming-businessman-formal-wear-260nw-214875505.jpg,detected,1,0.7239408493041992
+fall,fell-of-chair-20-4-hus-noorderpad-de-•-51927368.png,detected,2,0.35896748304367065
+fall,full-length-young-businessman-fallen-260nw-183268364.jpg,missed,0,0.0
+fall,garden-accident-falling-over-senior-man-has-tripped-hose-pipe-fallen-to-ground-lucky-not-to-be-badly-injured-51174829.jpg,detected,2,0.833717942237854
+fall,gettyimages-1183001771-612x612.jpg,detected,1,0.7821973562240601
+fall,gettyimages-1323451805-612x612.jpg,detected,1,0.8715394139289856
+fall,gettyimages-136811202-612x612.jpg,detected,1,0.7718687057495117
+fall,gettyimages-138341313-612x612.jpg,missed,0,0.0
+fall,images (1).jpeg,detected,2,0.6018468141555786
+fall,images (10).jpeg,detected,1,0.561739981174469
+fall,images (11).jpeg,detected,1,0.6314914226531982
+fall,images (12).jpeg,missed,0,0.0
+fall,images (13).jpeg,detected,1,0.3301492929458618
+fall,images (14).jpeg,missed,0,0.0
+fall,images (15).jpeg,detected,2,0.6514478325843811
+fall,images (16).jpeg,detected,1,0.43213391304016113
+fall,images (17).jpeg,detected,1,0.37739330530166626
+fall,images (18).jpeg,detected,1,0.8741495013237
+fall,images (19).jpeg,detected,1,0.4586329758167267
+fall,images (2).jpeg,detected,1,0.5694060921669006
+fall,images (20).jpeg,detected,1,0.5868743062019348
+fall,images (21).jpeg,detected,1,0.5571268200874329
+fall,images (22).jpeg,detected,2,0.49756550788879395
+fall,images (23).jpeg,detected,1,0.4881260395050049
+fall,images (24).jpeg,detected,1,0.8376899361610413
+fall,images (25).jpeg,detected,2,0.7045783996582031
+fall,images (26).jpeg,detected,1,0.6854246258735657
+fall,images (27).jpeg,missed,0,0.0
+fall,images (28).jpeg,missed,0,0.0
+fall,images (3).jpeg,detected,1,0.3479662835597992
+fall,images (30).jpeg,detected,1,0.8724474310874939
+fall,images (31).jpeg,detected,2,0.5297842025756836
+fall,images (32).jpeg,detected,2,0.857342004776001
+fall,images (33).jpeg,detected,1,0.5828052759170532
+fall,images (5).jpeg,detected,1,0.8212983012199402
+fall,images (6).jpeg,detected,1,0.6113993525505066
+fall,images (7).jpeg,detected,1,0.7949019074440002
+fall,images (8).jpeg,detected,1,0.8541246056556702
+fall,images (9).jpeg,missed,0,0.0
+fall,images.jpeg,detected,1,0.8732962608337402
+fall,istockphoto-1063428084-612x612.jpg,detected,1,0.823401927947998
+fall,istockphoto-1161018416-612x612.jpg,detected,1,0.915253758430481
+fall,istockphoto-173556820-612x612.jpg,detected,1,0.5212540030479431
+fall,istockphoto-996842882-612x612.jpg,detected,1,0.8425279855728149
+fall,man-fallen-on-floor-having-260nw-1480983821.jpg,detected,1,0.5996487140655518
+fall,man-with-a-walker-falling-down-in-the-stock-photo_csp4654232.jpg,detected,2,0.6818188428878784
+fall,maxresdefault.jpg,detected,1,0.6277811527252197
+fall,nullxnull.jpeg,detected,1,0.7811028957366943
+fall,old-senior-fallen-man-elderly-260nw-1873191766.jpg,detected,2,0.5317949652671814
+fall,repairman-fallen-from-ladder-X13YEJ.jpg,detected,1,0.788730800151825
+fall,split10_029.png,detected,1,0.4832106828689575
+fall,split10_184.png,detected,1,0.6680203676223755
+fall,split10_237.png,detected,1,0.3350467383861542
+fall,split10_247.png,missed,0,0.0
+fall,split11_001.png,detected,1,0.4995499849319458
+fall,split11_009.png,detected,1,0.4854097068309784
+fall,split11_022.png,missed,0,0.0
+fall,split11_030.png,detected,1,0.3059092164039612
+fall,split11_087.png,detected,1,0.520519495010376
+fall,split11_093.png,detected,1,0.7061814665794373
+fall,split11_1004.png,missed,0,0.0
+fall,split11_1029.png,detected,1,0.5215683579444885
+fall,split11_1038.png,detected,2,0.4584319591522217
+fall,split11_1064.png,detected,1,0.8090443015098572
+fall,split11_1203.png,detected,1,0.7956945300102234
+fall,split11_1696.png,detected,1,0.8893674612045288
+fall,split11_175.png,missed,0,0.0
+fall,split11_2080.png,missed,0,0.0
+fall,split11_2082.png,detected,1,0.31149178743362427
+fall,split11_2098.png,missed,0,0.0
+fall,split11_530.png,detected,1,0.6031749248504639
+fall,split11_537.png,detected,1,0.73826664686203
+fall,split11_682.png,missed,0,0.0
+fall,split11_696.png,detected,1,0.43359872698783875
+fall,split11_741.png,detected,1,0.8103993535041809
+fall,split11_753.png,detected,1,0.7990376949310303
+fall,split11_789.png,detected,1,0.4500712454319
+fall,split11_959.png,detected,1,0.30229803919792175
+fall,split11_993.png,missed,0,0.0
+fall,split2_019.png,missed,0,0.0
+fall,split3_017.png,detected,1,0.8392085433006287
+fall,woman-falling-near-caution-sign-home-mature-woman-falling-wet-floor-front-caution-sign-home-126291303.jpg,detected,1,0.6470595002174377
+fall,young-man-dress-nightclothes-sleeping-260nw-90510538.jpg,detected,1,0.8946920037269592
+not-fall,0203e5a8-8c1e-40e9-b23a-4733056bb0f5_Swallow+2.jpg,detected,1,0.7383723855018616
+not-fall,0_Portrait-of-a-senior-man-indoor.jpg,detected,1,0.8877255916595459
+not-fall,1 (1).jpg,detected,1,0.9026380181312561
+not-fall,1 (2).jpg,detected,1,0.9091667532920837
+not-fall,14_AIK_5918_2520Interior.jpg,detected,2,0.8673827052116394
+not-fall,156473069-mature-man-sitting-in-an-armchair-and-reading-a-newspaper-in-a-living-room-at-home.jpg,detected,1,0.8113459348678589
+not-fall,1794957.jpg,detected,1,0.8674944639205933
+not-fall,1_Elderly-man-sitting-alone-at-home.jpg,detected,1,0.8880952000617981
+not-fall,3000.jpg,detected,1,0.8150630593299866
+not-fall,3001.jpg,detected,1,0.9266409277915955
+not-fall,3002.jpg,detected,1,0.9069383144378662
+not-fall,3003.jpg,detected,1,0.8113646507263184
+not-fall,3004.jpg,detected,1,0.6161139011383057
+not-fall,3005.jpg,detected,1,0.927594780921936
+not-fall,3006.jpg,detected,1,0.9305263161659241
+not-fall,3007.jpg,detected,1,0.9337119460105896
+not-fall,3008.jpg,detected,1,0.9447581768035889
+not-fall,3009.jpg,detected,1,0.9253897666931152
+not-fall,3010.jpg,detected,2,0.7151970863342285
+not-fall,3011.jpg,detected,1,0.9131781458854675
+not-fall,3012.jpg,detected,1,0.5902695655822754
+not-fall,3013.jpg,detected,4,0.7208350300788879
+not-fall,3014.jpg,detected,1,0.8902773261070251
+not-fall,3015.jpg,detected,1,0.7791904211044312
+not-fall,3016.jpg,detected,1,0.8252604007720947
+not-fall,3017.jpg,detected,1,0.8953909277915955
+not-fall,3018.jpg,detected,1,0.6683176159858704
+not-fall,3019.jpg,detected,1,0.9100347757339478
+not-fall,3020.jpg,detected,1,0.9271331429481506
+not-fall,3021.jpg,detected,6,0.7870233654975891
+not-fall,3022.jpg,detected,5,0.8426422476768494
+not-fall,3023.jpg,detected,1,0.864754319190979
+not-fall,3024.jpg,detected,1,0.885129988193512
+not-fall,3025.jpg,detected,6,0.8887884020805359
+not-fall,3026.jpg,detected,1,0.9046171307563782
+not-fall,3027.jpg,detected,3,0.7990565896034241
+not-fall,3028.jpg,detected,1,0.5901054739952087
+not-fall,3029.jpg,detected,1,0.9120355844497681
+not-fall,3030.jpg,detected,1,0.9124046564102173
+not-fall,3031.jpg,detected,1,0.8242098689079285
+not-fall,3032.jpg,detected,1,0.9191325902938843
+not-fall,3033.jpg,detected,1,0.8709576725959778
+not-fall,3034.jpg,detected,1,0.6224181056022644
+not-fall,3035.jpg,detected,1,0.5248045921325684
+not-fall,3036.jpg,detected,1,0.8876534104347229
+not-fall,3037.jpg,detected,1,0.9095503091812134
+not-fall,3038.jpg,detected,5,0.8426422476768494
+not-fall,3039.jpg,detected,1,0.8879344463348389
+not-fall,3040.jpg,detected,6,0.9139013290405273
+not-fall,3041.jpg,detected,1,0.92167067527771
+not-fall,3042.jpg,detected,3,0.8063815236091614
+not-fall,3043.jpg,detected,1,0.8848415017127991
+not-fall,3044.jpg,detected,1,0.7265840172767639
+not-fall,3045.jpg,detected,5,0.8973661065101624
+not-fall,3046.jpg,detected,1,0.9126706719398499
+not-fall,3047.jpg,detected,1,0.8850464224815369
+not-fall,3048.jpg,detected,1,0.9072392582893372
+not-fall,3049.jpg,detected,1,0.7733275294303894
+not-fall,3050.jpg,detected,1,0.8497561812400818
+not-fall,3051.jpg,detected,1,0.9199978709220886
+not-fall,3052.jpg,detected,1,0.8982688188552856
+not-fall,3053.jpg,detected,2,0.7577453851699829
+not-fall,3054.jpg,detected,2,0.843741774559021
+not-fall,3055.jpg,detected,1,0.8547173738479614
+not-fall,3056.jpg,detected,1,0.4924604594707489
+not-fall,3057.jpg,detected,1,0.6157379150390625
+not-fall,3058.jpg,detected,1,0.5175409913063049
+not-fall,3059.jpg,detected,1,0.9070060849189758
+not-fall,3060.jpg,detected,1,0.9193639159202576
+not-fall,5dfb812331ce996bd94c50a62e968cd3.jpg,detected,1,0.7354852557182312
+not-fall,600-03152868em-young-woman-sitting-on-park-bench-reading-a-book-stock-photo.jpg,detected,1,0.8811585307121277
+not-fall,60367113-relaxed-man-sitting-on-a-comfortable-couch-and-reading-a-book-at-home.jpg,detected,2,0.6807942390441895
+not-fall,6108-06166217en_Masterfile.jpg,detected,1,0.9171666502952576
+not-fall,800px_COLOURBOX8048972.jpg,detected,1,0.8983583450317383
+not-fall,83093349-woman-sitting-on-the-couch-looking-and-thinking-pose-on-wooden-floor-with-white-wall-background-.jpg,detected,1,0.8774032592773438
+not-fall,87-year-old-elderly-man-living-alone-stood-in-his-hallway-england-united-kingdom-2AJRA2H.jpg,detected,1,0.8795686364173889
+not-fall,8be690aebe35a3afb2e9aeb82cc607b76b1052b8.jpg,detected,1,0.9031465649604797
+not-fall,a-side-view-of-man-walking-with-a-mobile-stock-image_csp66335565.jpg,detected,1,0.8854539394378662
+not-fall,ALEXANDER3-scaled-803x603-1588189198.jpg,detected,2,0.9196649789810181
+not-fall,AP_20110480735651-900x600-768x512-600x400.jpg,detected,1,0.8908975124359131
+not-fall,D1028_103_066_1200.jpg,detected,2,0.7738677263259888
+not-fall,depositphotos_190344190-stock-photo-side-view-handsome-young-man.jpg,detected,1,0.7622870802879333
+not-fall,depositphotos_232207984-stock-photo-female-business-person-sitting-desk.jpg,detected,1,0.9125105142593384
+not-fall,depositphotos_245876718-stock-photo-senior-man-sitting-alone-living.jpg,detected,1,0.870765209197998
+not-fall,depositphotos_7357415-stock-photo-attractive-woman-relax-living-room.jpg,detected,2,0.6741988062858582
+not-fall,download (1).jpeg,detected,1,0.9082880616188049
+not-fall,download (10).jpeg,detected,1,0.8991373777389526
+not-fall,download (11).jpeg,detected,1,0.9113566875457764
+not-fall,download (2).jpeg,detected,1,0.7221505641937256
+not-fall,download (3).jpeg,detected,1,0.8086769580841064
+not-fall,download (4).jpeg,detected,1,0.9332801103591919
+not-fall,download (5).jpeg,detected,1,0.742946445941925
+not-fall,download (6).jpeg,detected,1,0.9193128347396851
+not-fall,download (7).jpeg,detected,1,0.9202495217323303
+not-fall,download (8).jpeg,detected,1,0.7501976490020752
+not-fall,download (9).jpeg,detected,1,0.6246664524078369
+not-fall,download.jpeg,detected,1,0.9172732830047607
+not-fall,elderly-person-in-care-home(1).jpg,detected,1,0.8692971467971802
+not-fall,elderly-person-in-care-home.jpg,detected,1,0.8692971467971802
+not-fall,enthusiastic-young-woman-standing-dressing-room-wardrobe-thinking-has-contemplative-look-her-beautiful-black-dress-hovers-air-she-has-long-curly-brown-hair_197531-1698(1).jpg,detected,1,0.8426569104194641
+not-fall,enthusiastic-young-woman-standing-dressing-room-wardrobe-thinking-has-contemplative-look-her-beautiful-black-dress-hovers-air-she-has-long-curly-brown-hair_197531-1698.jpg,detected,1,0.8426569104194641
+not-fall,excited-millennial-businesswoman-relax-listening-to-music-headset-workplace-happy-female-worker-dance-rhythm-office-chair-122984569(1).jpg,detected,1,0.8919835686683655
+not-fall,excited-millennial-businesswoman-relax-listening-to-music-headset-workplace-happy-female-worker-dance-rhythm-office-chair-122984569.jpg,detected,1,0.8919835686683655
+not-fall,fall-10-cam0-rgb-001(1).png,detected,1,0.92876797914505
+not-fall,fall-10-cam0-rgb-001.png,detected,1,0.92876797914505
+not-fall,fall-30-cam1-rgb-001(1).png,detected,1,0.5522032380104065
+not-fall,fall-30-cam1-rgb-001.png,detected,1,0.5522032380104065
+not-fall,fall_img_1(1).png,detected,1,0.8521741628646851
+not-fall,fall_img_1.png,detected,1,0.8521741628646851
+not-fall,fall_img_11(1).png,detected,1,0.8551626801490784
+not-fall,fall_img_11.png,detected,1,0.8551626801490784
+not-fall,fall_img_11_flip.png,detected,1,0.8661043047904968
+not-fall,fall_img_15.png,detected,1,0.8706684112548828
+not-fall,fall_img_4.png,detected,1,0.8745066523551941
+not-fall,Female_Reading_1200x628-facebook.jpg,detected,1,0.6494008302688599
+not-fall,focused_157573068-stock-photo-man-standing-in-bedroom.jpg,detected,1,0.8926597833633423
+not-fall,focused_293497824-stock-photo-senior-woman-standing-couch-living.jpg,detected,1,0.8566643595695496
+not-fall,gettyimages-1077393686-612x612.jpg,detected,1,0.8716131448745728
+not-fall,gettyimages-1134648986-612x612.jpg,detected,1,0.8733615279197693
+not-fall,gettyimages-1194490223-612x612.jpg,detected,1,0.9293999671936035
+not-fall,gettyimages-735892663-170667a.jpg,detected,1,0.8703656196594238
+not-fall,girl-kitchen-short-shorts-sexy-55357539.jpg,detected,1,0.9197842478752136
+not-fall,happy-woman-relaxing-on-comfortable-260nw-1126189862.jpg,detected,1,0.8337060213088989
+not-fall,healthy-diet-during-pregnancy-young-260nw-1928465444.jpg,detected,1,0.7463862299919128
+not-fall,home-2015-09-wood-ikea-cabinets-0903-stocksy-main.jpg,detected,1,0.8060144782066345
+not-fall,images (1).jpeg,detected,1,0.9126154780387878
+not-fall,images (10).jpeg,detected,2,0.5835193991661072
+not-fall,images (11).jpeg,detected,1,0.8859037756919861
+not-fall,images (12).jpeg,detected,1,0.9041355848312378
+not-fall,images (13).jpeg,detected,1,0.8920837640762329
+not-fall,images (14).jpeg,detected,1,0.6854056119918823
+not-fall,images (15).jpeg,detected,1,0.9250900149345398
+not-fall,images (16).jpeg,detected,1,0.8967574238777161
+not-fall,images (17).jpeg,detected,1,0.930962085723877
+not-fall,images (19).jpeg,detected,1,0.8526884317398071
+not-fall,images (2).jpeg,detected,1,0.9017106890678406
+not-fall,images (20).jpeg,detected,1,0.7186877131462097
+not-fall,images (21).jpeg,detected,1,0.6848080158233643
+not-fall,images (22).jpeg,detected,1,0.8156588673591614
+not-fall,images (23).jpeg,detected,1,0.3015493154525757
+not-fall,images (24).jpeg,detected,2,0.4175737798213959
+not-fall,images (25).jpeg,detected,1,0.8539579510688782
+not-fall,images (26).jpeg,detected,1,0.8912453651428223
+not-fall,images (27).jpeg,detected,2,0.7499082088470459
+not-fall,images (28).jpeg,detected,2,0.6730383038520813
+not-fall,images (29).jpeg,detected,1,0.5248045921325684
+not-fall,images (3).jpeg,detected,1,0.839451014995575
+not-fall,images (30).jpeg,detected,1,0.842578113079071
+not-fall,images (31).jpeg,detected,1,0.8417357206344604
+not-fall,images (32).jpeg,detected,1,0.779071569442749
+not-fall,images (33).jpeg,detected,1,0.892894983291626
+not-fall,images (34).jpeg,detected,1,0.9103842377662659
+not-fall,images (4).jpeg,detected,1,0.8819669485092163
+not-fall,images (5).jpeg,detected,1,0.8677352070808411
+not-fall,images (6).jpeg,detected,1,0.7937322854995728
+not-fall,images (7).jpeg,detected,1,0.9224218130111694
+not-fall,images (8).jpeg,detected,1,0.8338385820388794
+not-fall,images (9).jpeg,detected,1,0.9189864993095398
+not-fall,images.jpeg,detected,1,0.9141845107078552
+not-fall,inline_image_preview (1).jpg,detected,1,0.845043957233429
+not-fall,inline_image_preview.jpg,detected,1,0.8567564487457275
+not-fall,istockphoto-1208331223-1024x1024.jpg,detected,1,0.8496938943862915
+not-fall,istockphoto-1286500630-640x640.jpg,detected,1,0.9272893071174622
+not-fall,istockphoto-959019814-1024x1024.jpg,detected,1,0.9031798243522644
+not-fall,jenecouch_custom-a00684aa3997015130e14c1aaba20c5091a4664d.jpg,detected,1,0.8595746755599976
+not-fall,lonely-senior-man-sitting-on-sofa-indoors-at-christmas-solitude-concept-2D57X09.jpg,detected,1,0.8574016094207764
+not-fall,man-animal-posing-studio-guy-holding-dog-jack-russell-terrier-his-arms-friends-smile-happily-man-dog-132761364.jpg,detected,1,0.9294745326042175
+not-fall,man-sitting-on-floor-next-to-couch-dirtier-than-toilet-seat.jpg,detected,1,0.9212796688079834
+not-fall,mature-man-relaxing-on-leather-chair-in-his-living-room-looking-out-of-window-RBF06480.jpg,detected,1,0.8864659070968628
+not-fall,person-face2.jpg,detected,1,0.6185187697410583
+not-fall,photo-1523416562596-aa5fbce27303.jpeg,detected,1,0.8876134753227234
+not-fall,photo-1527237545644-c3d2a74ede9f.jpeg,detected,1,0.9233636260032654
+not-fall,portrait-happy-business-woman-coffee-shop-having-enjoyed-impressive-success-victory-dance-rewarded-won-good-con-95086854.jpg,detected,1,0.8477048277854919
+not-fall,PSOCZKI7XBCYFGPGCCJ6ASI5PU.jpg,detected,1,0.7860006093978882
+not-fall,reading-park-bench-10074620.jpg,detected,1,0.9079984426498413
+not-fall,relaxed-young-man-sit-rest-couch-modern-design-living-room-daydreaming-sleeping-calm-millennial-male-relax-sofa-184923758.jpg,detected,1,0.9221618175506592
+not-fall,rgb_0001.png,detected,1,0.915910005569458
+not-fall,rgb_0002.png,detected,1,0.9157708287239075
+not-fall,rgb_0009.png,detected,1,0.838312029838562
+not-fall,rgb_0020.png,detected,1,0.8800294399261475
+not-fall,rgb_0023.png,detected,1,0.6003667116165161
+not-fall,rgb_0043.png,detected,1,0.8983027338981628
+not-fall,rgb_0046.png,detected,1,0.8715463876724243
+not-fall,rgb_0053.png,detected,2,0.7765238285064697
+not-fall,rgb_0096.png,detected,2,0.8047999739646912
+not-fall,rgb_0108.png,detected,1,0.837385356426239
+not-fall,rgb_0119.png,detected,1,0.9179728031158447
+not-fall,rgb_0144.png,detected,2,0.6677757501602173
+not-fall,rgb_0151.png,detected,1,0.6327229738235474
+not-fall,rgb_0160.png,detected,1,0.6783766746520996
+not-fall,rgb_0164.png,detected,1,0.7593175768852234
+not-fall,rgb_0174.png,detected,1,0.868887722492218
+not-fall,rgb_0281.png,detected,1,0.7762912511825562
+not-fall,rgb_0293.png,detected,1,0.85340815782547
+not-fall,rgb_0510.png,detected,2,0.8988052010536194
+not-fall,rgb_0534.png,detected,2,0.875140905380249
+not-fall,rgb_0570.png,detected,1,0.8126949667930603
+not-fall,rgb_0629.png,detected,1,0.7771058082580566
+not-fall,sad-and-lonely-senior-man-with-tablet-sitting-at-the-table-indoors-at-christmas-solitude-concept-2D12FDW.jpg,detected,1,0.8147170543670654
+not-fall,senior-man-standing-outside-house-5112779.jpg,detected,1,0.9331566691398621
+not-fall,shutterstock_587404685.jpg,detected,1,0.8496753573417664
+not-fall,simple-things-that-will-make-you-happier-at-home-hero-720x500.jpg,detected,1,0.8430590629577637
+not-fall,smiling-woman-standing-at-open-front-door-G2DFJN.jpg,detected,2,0.9122450947761536
+not-fall,wes-rbf06011.jpg,detected,1,0.8649594187736511
+not-fall,Woman-Walking-Dog-Mikael-Wallerstedt-Uppsala-University-Released.jpg,detected,1,0.905242383480072
+not-fall,young-man-making-video-call-sitting-sofa-his-living-room-giving-greeting-wave-gesture_1098-19249.jpg,detected,1,0.8064150214195251
+not-fall,young-woman-standing-in-a-room-in-need-of-redecoration-X18FPE.jpg,detected,1,0.7284494638442993

@@ -1,0 +1,65 @@
+
+# ============================================================
+# BAM-HRNet Training Configuration
+# Milestone 2 - Full Training
+# ============================================================
+
+# ------------------------------------------------------------
+# Dataset
+# ------------------------------------------------------------
+train_json: /kaggle/input/datasets/pushkarpatil16062005/fall-detection-dataset/COCO Keypoint Dataset/COCO Keypoint Dataset/person_keypoints_train2017.json
+
+val_json: /kaggle/input/datasets/pushkarpatil16062005/fall-detection-dataset/COCO Keypoint Dataset/COCO Keypoint Dataset/person_keypoints_val2017.json
+
+train_images: /kaggle/input/datasets/pushkarpatil16062005/fall-detection-dataset/Fall-Detection-YOLO/yolo/train/images
+
+val_images: /kaggle/input/datasets/pushkarpatil16062005/fall-detection-dataset/Fall-Detection-YOLO/yolo/val/images
+
+
+# ------------------------------------------------------------
+# Model
+# ------------------------------------------------------------
+num_keypoints: 17
+num_blocks: 4
+
+input_size: 256
+heatmap_size: 64
+
+
+# ------------------------------------------------------------
+# Training
+# ------------------------------------------------------------
+epochs: 20
+batch_size: 16
+
+learning_rate: 0.001
+weight_decay: 0.0001
+
+num_workers: 4
+pin_memory: true
+use_amp: true
+
+
+# ------------------------------------------------------------
+# Full Dataset
+# ------------------------------------------------------------
+train_subset: null
+val_subset: null
+
+
+# ------------------------------------------------------------
+# Augmentation
+# ------------------------------------------------------------
+random_erasing: true
+
+
+# ------------------------------------------------------------
+# Output Directories
+# ------------------------------------------------------------
+checkpoint_dir: /kaggle/working/Fall-Detection-System/models/pose
+
+training_results_dir: /kaggle/working/Fall-Detection-System/results/milestone-2/training
+
+evaluation_results_dir: /kaggle/working/Fall-Detection-System/results/milestone-2/evaluation
+
+visualization_dir: /kaggle/working/Fall-Detection-System/results/milestone-2/visualizations

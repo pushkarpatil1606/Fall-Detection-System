@@ -1,0 +1,13 @@
+# Milestone 1: Improved YOLOv8 person detector
+# Train = COCO train2017 + VOC2007 train split
+# Val   = COCO val2017
+#
+# Generated for this machine. Teammates should regenerate/update the path
+# for their own local dataset root.
+
+path: D:/Fall-Detection-Data/processed/detection/yolo
+train: train/images
+val: val/images
+
+names:
+  0: person

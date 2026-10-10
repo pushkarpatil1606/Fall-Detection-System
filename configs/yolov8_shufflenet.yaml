@@ -1,0 +1,39 @@
+
+# Improved YOLOv8 for Milestone 1
+# ShuffleNetV2 backbone + SPPF + Shuffle Attention in the YOLOv8 neck.
+# Paper-reported backbone widths: 24 -> 116 -> 232 -> 464.
+
+nc: 1
+depth_multiple: 1.0
+width_multiple: 1.0
+
+backbone:
+  - [-1, 1, Conv, [24, 3, 2]]
+  - [-1, 1, nn.MaxPool2d, [3, 2, 1]]
+  - [-1, 1, ShuffleV2Stage, [116, 4]]
+  - [-1, 1, ShuffleV2Stage, [232, 8]]
+  - [-1, 1, ShuffleV2Stage, [464, 4]]
+  - [-1, 1, SPPF, [464, 5]]
+
+head:
+  - [-1, 1, nn.Upsample, [None, 2, nearest]]
+  - [[-1, 3], 1, Concat, [1]]
+  - [-1, 3, C2f, [232]]
+  - [-1, 1, ShuffleAttention, [2]]
+
+  - [-1, 1, nn.Upsample, [None, 2, nearest]]
+  - [[-1, 2], 1, Concat, [1]]
+  - [-1, 3, C2f, [116]]
+  - [-1, 1, ShuffleAttention, [2]]
+
+  - [-1, 1, Conv, [232, 3, 2]]
+  - [[-1, 9], 1, Concat, [1]]
+  - [-1, 3, C2f, [232]]
+  - [-1, 1, ShuffleAttention, [2]]
+
+  - [-1, 1, Conv, [464, 3, 2]]
+  - [[-1, 5], 1, Concat, [1]]
+  - [-1, 3, C2f, [464]]
+  - [-1, 1, ShuffleAttention, [2]]
+
+  - [[13, 17, 21], 1, Detect, [nc]]

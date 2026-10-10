@@ -1,0 +1,20 @@
+BAM-HRNet Peak Heatmap Activations
+==================================================
+
+nose            : 0.754691
+left_eye        : 0.787188
+right_eye       : 0.657580
+left_ear        : 0.599941
+right_ear       : 0.041956
+left_shoulder   : 0.743734
+right_shoulder  : 0.240081
+left_elbow      : 0.783435
+right_elbow     : 0.018688
+left_wrist      : 0.580036
+right_wrist     : 0.040614
+left_hip        : 0.433735
+right_hip       : 0.246587
+left_knee       : 0.606710
+right_knee      : 0.304029
+left_ankle      : 0.575976
+right_ankle     : 0.242021
