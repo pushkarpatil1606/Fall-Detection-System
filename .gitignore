@@ -15,27 +15,7 @@ env/
 .env
 .env.*
 
-# ==============================
-# Machine Learning Models
-# ==============================
 
-*.pt
-*.pth
-*.onnx
-*.h5
-*.keras
-*.ckpt
-
-# ==============================
-# Datasets
-# ==============================
-
-data/raw/*
-data/processed/*
-
-# Keep folder structure
-!data/raw/.gitkeep
-!data/processed/.gitkeep
 
 # ==============================
 # Videos / Large Media
